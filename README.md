@@ -8,7 +8,7 @@
 ## ytdlBasic.bat
 这个批处理文件是最基本的。默认情况下，它仅下载最佳质量的视频。
 
-##ytdlAdvanced.bat
+## ytdlAdvanced.bat
 该批处理文件允许用户输入视频URL，然后继续列出该视频的所有可用格式。然后，它提示用户手动选择所需的视频和音频格式。
 
 ## ytdlCustom.bat
